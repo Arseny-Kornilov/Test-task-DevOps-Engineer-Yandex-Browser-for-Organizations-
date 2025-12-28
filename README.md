@@ -1,1 +1,1 @@
-# Test-task-DevOps-Engineer-Yandex-Browser-for-Organizations-
+Тестовое задание "DevOps-инженер (Яндекс Браузер для организаций)
